@@ -6,7 +6,7 @@ Each group of students should choose one of the assignments listed below. All as
 **dynamic analysis**, **program inspection** and **code instrumentation**.
 
 Partial controls will take place during sessions **3**, **6** and **8**. Deadline to deliver the project will be 
-on **December 21st 23:59 PM CET**. See [deadline section] for more details.
+on **February 1st 23:59 PM CET**. See [deadline section] for more details.
 
 The goal of each assignment is to develop a tool that takes as input a the path to an existing Maven project. It can be assumed that the project provided as input uses JUnit to implement its test suite.
 
@@ -166,14 +166,14 @@ Using real projects as target can be troublesome, so we recommend you to start w
 
 # Deadlines
 
-At the end of **session 1** (17/10/2018 IL, 18/10/2018 ILA) you should have decided on the assignment and set up the git repository containing a skeleton Maven project.
+At the end of **session 1** (19/10/2018) you should have decided on the assignment and set up the git repository containing a skeleton Maven project.
 
-After **session 3** (05/11/2018 IL and ILA) the tool should be able to run the test suite (or selected test classes) of a Maven project given as input.
+After **session 3** (07/11/2018) the tool should be able to run the test suite (or selected test classes) of a Maven project given as input.
 
-After **session 6** (22/11/2018 IL, 16/11/2018 ILA) the tool should be able to instrument part of the code needed to achieve its goal.
+After **session 6** (07/12/2018) the tool should be able to instrument part of the code needed to achieve its goal.
 
-After **session 8** (29/11/2018 IL, 07/12/2018 ILA) most functionalities should be already implemented.
+After **session 8** (25/01/2019) most functionalities should be already implemented.
 
-Final deadline will be  **December the 21st 23:59 PM CET CET**. 
+Final deadline will be  **February 1st 23:59 PM CET CET**. 
 At that moment all repositories will be cloned and this will be considered as the final version of the project.
 
