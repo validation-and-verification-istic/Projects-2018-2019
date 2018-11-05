@@ -10,6 +10,8 @@ on **February 1st 23:59 PM CET**. See [deadline section] for more details.
 
 The goal of each assignment is to develop a tool that takes as input the path to an existing Maven project. It can be assumed that the project provided as input uses JUnit 4 to implement its test suite.
 
+[Pairs and choices](assignments.md)
+
 ### Code coverage
 
 The goal of this assignment is to create a tool capable of computing several coverage statistics from a Maven project.
