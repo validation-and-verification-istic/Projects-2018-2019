@@ -170,7 +170,7 @@ Using real projects as target can be troublesome, so we recommend you to start w
 
 At the end of **session 1** (19/10/2018) you should have decided on the assignment and set up the git repository containing a skeleton Maven project.
 
-After **session 3** (07/11/2018) the tool should be able to run the test suite (or selected test classes) of a Maven project given as input.
+After **session 3** (16/11/2018) the tool should be able to run the test suite (or selected test classes) of a Maven project given as input.
 
 After **session 6** (07/12/2018) the tool should be able to instrument part of the code needed to achieve its goal.
 
