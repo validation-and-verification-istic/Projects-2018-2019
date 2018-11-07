@@ -11,12 +11,11 @@ Jammal MAHMOUD & Mouhyi-Eddine MOUTARAJJI | [Mutation Analysis](README.md#mutati
 Bashar NEMEH & Sylvia Hantavolaniaina RABE | [Mutation Analysis](README.md#mutation-analysis) | [https://github.com/basharnemeh/mutation_project](https://github.com/basharnemeh/mutation_project) note: invalid link
 Mathieu DESCHAMPS & Jérémy ESNAULT | [Code Coverage](README.md#code-coverage) | [https://github.com/MathieuDeschamps/V-V](https://github.com/MathieuDeschamps/V-V)
 Mounir BOUYAMINE & Abdallah LACHAAL | [Mutation Analysis](README.md#mutation-analysis) | [https://gitlab.com/mounir17/mutation-analysis](https://gitlab.com/mounir17/mutation-analysis)
+Antoine LEVAL & Adrien LEBLANC | [Code Coverage](README.md#code-coverage) | [https://github.com/Viinyard/Coberturajour.git](https://github.com/Viinyard/Coberturajour.git)
 
 ## Students with no assignment 
 
 * Laurent	PIERRE
 * Erwan	IQUEL
-* Adrien	LEBLANC
 * Riwal	LE BUHAN
-* Antoine	LEVAL
 * Damien	VANSTEENE
