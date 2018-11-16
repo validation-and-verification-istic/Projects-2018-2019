@@ -12,7 +12,7 @@ Mathieu LE CLEC'H & Pierre MIOLA | [Assertion generation](README.md#assertion-ge
 Gwénolé LE HENAFF & Gautier ROULEAU | [Assertion generation](README.md#assertion-generation) | https://github.com/ISTIC-M2-ILa-GM/WeAssert
 Jammal MAHMOUD & Mouhyi-Eddine MOUTARAJJI | [Mutation Analysis](README.md#mutation-analysis) | https://github.com/Mouhyi-Eddine/Projet_V_and_V
 Bashar NEMEH & Sylvia Hantavolaniaina RABE | [Mutation Analysis](README.md#mutation-analysis) |https://github.com/basharnemeh/mutation_project note: private repo
-Riwal LE BUHAN | [Mutation Analysis](README.md#mutation-analysis) | note: no respository provided
+Riwal LE BUHAN | [Mutation Analysis](README.md#mutation-analysis) | https://github.com/RiwalLB/V-V-project
 
 ## Students with no assignment 
 
