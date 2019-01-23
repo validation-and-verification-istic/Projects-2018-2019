@@ -172,7 +172,7 @@ At the end of **session 1** (19/10/2018) you should have decided on the assignme
 
 After **session 3** (16/11/2018) the tool should be able to run the test suite (or selected test classes) of a Maven project given as input.
 
-After **session 6** (25/01/2019) the tool should be able to instrument part of the code needed to achieve its goal.
+After **session 6** (24/01/2019) the tool should be able to instrument part of the code needed to achieve its goal.
 
 After **session 8** (01/02/2019) most functionalities should be already implemented.
 
