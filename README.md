@@ -172,10 +172,10 @@ At the end of **session 1** (19/10/2018) you should have decided on the assignme
 
 After **session 3** (16/11/2018) the tool should be able to run the test suite (or selected test classes) of a Maven project given as input.
 
-After **session 6** (07/12/2018) the tool should be able to instrument part of the code needed to achieve its goal.
+After **session 6** (25/01/2019) the tool should be able to instrument part of the code needed to achieve its goal.
 
-After **session 8** (25/01/2019) most functionalities should be already implemented.
+After **session 8** (01/02/2019) most functionalities should be already implemented.
 
-Final deadline will be  **February 1st 23:59 PM CET CET**. 
+Final deadline will be  **February 10 23:59 PM CET CET**. 
 At that moment all repositories will be cloned and this will be considered as the final version of the project.
 
