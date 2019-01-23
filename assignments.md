@@ -7,8 +7,7 @@ Mounir BOUYAMINE & Abdallah LACHAAL | [Mutation Analysis](README.md#mutation-ana
 Mathieu DESCHAMPS & Jérémy ESNAULT | [Code Coverage](README.md#code-coverage) | https://github.com/MathieuDeschamps/V-V
 Arnaud GOHIER & Kévin PARATRE-BADOIS | [Mutation Analysis](README.md#mutation-analysis) | https://gitlab.com/AGohier/vv-codemutation
 Noureddine KADRI & Fahim MERZOUK | [Assertion generation](README.md#assertion-generation) | https://github.com/NoureddineK/VV_Project
-Adrien LEBLANC & Erwan IQUEL | [Assertion generation](README.md#assertion-generation) | https://github.com/AdrienLeblanc/vv
-
+Adrien LEBLANC & Erwan IQUEL | [Assertion generation](README.md#assertion-generation) | https://github.com/AdrienLeblanc/vv 
 Mathieu LE CLEC'H & Pierre MIOLA | [Assertion generation](README.md#assertion-generation) | https://github.com/LeclechM/assertionGeneration note: invalid link
 Gwénolé LE HENAFF & Gautier ROULEAU | [Assertion generation](README.md#assertion-generation) | https://github.com/ISTIC-M2-ILa-GM/WeAssert
 Antoine LEVAL & ? | [Code Coverage](README.md#code-coverage) | https://github.com/Viinyard/Coberturajour.git
